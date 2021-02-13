@@ -2,7 +2,7 @@ This is the description we show on the course page [here](https://lab.github.com
 
 ## About the Course
 - Learner's will learn **state-of-the-art** tools and techniques.
-- Working on Databases; both relational **(MySQL)** and non-relational **(NoSQl - MongoDB)**
+- Working on Databases; both relational **(MySQL)** and non-relational **(NoSQL - MongoDB)**
 - Techniques to deal with data, using tools such as **Python**, **R**, **SAS**, **Tableau** and **Excel**.
 - As a **trainee**, you will the chance to work on **real time data** to help you **visualize and generate powerful BI reports**.
 
