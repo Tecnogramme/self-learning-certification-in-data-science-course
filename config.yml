@@ -1,0 +1,20 @@
+title: Self Learning Certification in Data Science
+description: >-
+  This course is designed for everyone to learn from anywhere, irrespective of
+  their educational background. It has been tailor made as per the learner's
+  need and updated with the current market standards for those who want to have
+  a career in Data Science!
+template:
+  repo: self-learning-certification-in-data-science-template
+  name: self-learning-certification-in-data-science
+before:
+  - type: createIssue
+    title: Welcome!
+    body: new-issue.md
+steps:
+  - title: First step
+    description: The first step in your course
+    event: issues.assigned
+    link: '{{ repoUrl }}'
+    actions:
+      - type: closeIssue
