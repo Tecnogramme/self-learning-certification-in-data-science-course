@@ -15,3 +15,9 @@ This is the description we show on the course page [here](https://lab.github.com
 - A good **pay rise** from your current payscale.
 - One stop solution for all **possible reads for your Data Science needs**.
 - You will be able to **start a new career** after completion of the course.
+
+## Contact Us
+
+- In case of any queries or concerns, write to us, info@technogram.com
+- Likewise if you want to reach to us via [WhatsApp](https://wa.me/message/4USNFOW5M6YJB1)
+- Also, you connect with us on [Facebook](https://www.facebook.com/shabamtechnogram) and [LinkedIn](https://www.linkedin.com/company/tecnogramme/)
