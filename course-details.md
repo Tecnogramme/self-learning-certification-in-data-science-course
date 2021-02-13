@@ -1,5 +1,6 @@
 This is the description we show on the course page [here](https://lab.github.com/Tecnogramme/self-learning-certification-in-data-science). 
 
+## About the Course
 - Learner's will learn state-of-the-art tools and techniques.
 - Working on Databases; both relational(MySQL) and non-relational(NoSQl - MongoDB)
 - Techniques to deal with data, using tools such as Python, R, SAS, Tableau and Excel.
