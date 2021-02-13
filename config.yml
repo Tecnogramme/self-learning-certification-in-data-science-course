@@ -6,15 +6,23 @@ description: >-
   a career in Data Science!
 template:
   repo: self-learning-certification-in-data-science-template
-  name: self-learning-certification-in-data-science
+  name: Data Science Novice
+  description: >-
+    In this course, learner's will get to know the basics of Data Science, as in
+    where to start and what all things are requiered to focus on in order to be
+    mark their footsteps in the futuristic industry.
 before:
   - type: createIssue
     title: Welcome!
     body: new-issue.md
 steps:
-  - title: First step
-    description: The first step in your course
+  - title: Induction
+    description: >-
+      This marks the beginning of the our journey, where we will learn together
+      the fundamentals of Data Science, understanding how data is imapcting our
+      day to day lives.
     event: issues.assigned
     link: '{{ repoUrl }}'
     actions:
       - type: closeIssue
+    video: 'https://youtu.be/embed/eJR-oTEEDhU'
