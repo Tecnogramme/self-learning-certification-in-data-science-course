@@ -1,17 +1,17 @@
 This is the description we show on the course page [here](https://lab.github.com/Tecnogramme/self-learning-certification-in-data-science). 
 
 ## About the Course
-- Learner's will learn state-of-the-art tools and techniques.
-- Working on Databases; both relational(MySQL) and non-relational(NoSQl - MongoDB)
-- Techniques to deal with data, using tools such as Python, R, SAS, Tableau and Excel.
-- As a trainee, you will the chance to work on real time data to help you visualize and generate powerful BI reports.
+- Learner's will learn **state-of-the-art** tools and techniques.
+- Working on Databases; both relational **(MySQL)** and non-relational **(NoSQl - MongoDB)**
+- Techniques to deal with data, using tools such as **Python**, **R**, **SAS**, **Tableau** and **Excel**.
+- As a **trainee**, you will the chance to work on **real time data** to help you **visualize and generate powerful BI reports**.
 
 
 ## Course Outcome
 
-- A Digital certification.
-- Gudiance on building your Resume.
-- Chance to earn tangible career benefit.
-- A good pay rise from your current payscale.
-- One stop solution for all possible reads for your Data Science needs.
-- You will be able to start a new career after completion of the course.
+- A Digital **certification**.
+- **Gudiance** on building your Resume.
+- Chance to earn **tangible career benefit**.
+- A good **pay rise** from your current payscale.
+- One stop solution for all **possible reads for your Data Science needs**.
+- You will be able to **start a new career** after completion of the course.
